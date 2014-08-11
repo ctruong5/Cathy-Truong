@@ -1,0 +1,62 @@
+<!--Second Row!!-->
+
+<div class="row1">
+      
+      <div class="col-sm-6 col-md-4">
+        <div class="thumbnail">
+          <img src="images/DSC07100.JPG">
+          <div class="caption">
+            <h3>Thumbnail label</h3>
+            <p>sexytexty</p>
+            <a href="#openModal">Fullscreen</a>
+                <div id="openModal" class="modalDialog">
+                    <div>
+                        <a href="#close" title="Close" class="close">X</a>
+                        <img src="images/DSC07100.JPG" width="800px">
+                    </div>
+                </div>
+
+            <a href="images/DSC07100.JPG" download="CathyTruongWine">Download</a></p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-sm-6 col-md-4">
+        <div class="thumbnail">
+          <img src="images/DSC07100.JPG">
+          <div class="caption">
+            <h3>Thumbnail label</h3>
+            <p>sexytexty</p>
+            <a href="#openModal">Fullscreen</a>
+                <div id="openModal" class="modalDialog">
+                    <div>
+                        <a href="#close" title="Close" class="close">X</a>
+                        <img src="images/DSC07100.JPG" width="800px">
+                    </div>
+                </div>
+
+            <a href="images/DSC07100.JPG" download="CathyTruongWine">Download</a></p>
+          </div>
+        </div>
+      </div>
+     
+     
+      <div class="col-sm-6 col-md-4">
+        <div class="thumbnail">
+          <img src="images/DSC07100.JPG">
+          <div class="caption">
+            <h3>Thumbnail label</h3>
+            <p>sexytexty</p>
+            <a href="#openModal">Fullscreen</a>
+                <div id="openModal" class="modalDialog">
+                    <div>
+                        <a href="#close" title="Close" class="close">X</a>
+                        <img src="images/DSC07100.JPG" width="800px">
+                    </div>
+                </div>
+
+            <a href="images/DSC07100.JPG" download="CathyTruongWine">Download</a></p>
+          </div>
+        </div>
+      </div>
+</div>
